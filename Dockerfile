@@ -4,4 +4,5 @@ RUN install-php-extensions \
 	mongodb \
 	mcrypt \
 	bcmath \
+	sockers \
 	gd
