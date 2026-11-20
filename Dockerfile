@@ -1,4 +1,4 @@
-FROM dunglas/frankenphp:1.13.5-php8-alpine
+FROM dunglas/frankenphp:1.13.6-php8-alpine
 
 RUN install-php-extensions \
 	mongodb \
